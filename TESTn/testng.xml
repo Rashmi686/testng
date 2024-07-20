@@ -1,0 +1,8 @@
+<suite name="TESTNG">
+<test name="Receivemailtest">
+<classname>
+
+<class name="testcases.Receivemail"></class>
+</classname>
+</test>
+</suite>
